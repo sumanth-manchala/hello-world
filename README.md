@@ -1,2 +1,2 @@
 # hello-world
-A basic one
+I am new to this Git and i have intrest in python and machine learning' 
